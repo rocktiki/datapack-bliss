@@ -9,3 +9,4 @@ Datapack I'm working on for my own private server
 
 - shulker - drop 2 shells (more with looting?)
 - phantom - drop elytra (1% with looting)
+- bat - random 10% drop an apple? (fruit bats)
