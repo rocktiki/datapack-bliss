@@ -1,0 +1,25 @@
+{
+    "pools": [
+        {
+            "conditions": [],
+            "entries": [
+                {
+                    "conditions": [],
+                    "type": "item",
+                    "name": "minecraft:stone",
+                    "functions": [],
+                    "weight": 1,
+                    "quality": 1
+                }
+            ],
+            "rolls": {
+                "min": 1,
+                "max": 1
+            },
+            "bonus_rolls": {
+                "min": 0,
+                "max": 0
+            }
+        }
+    ]
+}
